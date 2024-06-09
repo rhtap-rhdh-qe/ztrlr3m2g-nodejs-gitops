@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ztrlr3m2g-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ztrlr3m2g-nodejs-gitops
